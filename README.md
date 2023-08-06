@@ -1,6 +1,8 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:aed4ff,100:466991&height=240&text=Woobi&animation=&fontColor=ffffff&fontSize=50" />
-    <div style="margin-top: 10px; font-size: 20px; font-weight: bold;">iOS Developer</div>
+</div>
+<div align="center" style="margin-top: 10px; font-size: 20px; font-weight: bold;">
+    iOS Developer
 </div>
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
