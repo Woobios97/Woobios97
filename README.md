@@ -12,7 +12,7 @@
 
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- [Gmail](woobios97@gmail.com)
+- [Gmail](mailto:woobios97@gmail.com)
 
 - [Tech Blog](https://woobios97portfolio.notion.site/Develop-a6b9c8b58d40476b901101e703f5acf9?pvs=4)
 
