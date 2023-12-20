@@ -53,7 +53,7 @@
   - ('2022. 02.) TOEIC SPEAKING Intermediate High (Speaking Score 140) (만료)
     
 - 기타
-  - ('2016. 12.) 유통관리사 1급
+  - ('2021. 09.) 유통관리사 1급
 
 
 ## Awards <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="25" height="25" />
